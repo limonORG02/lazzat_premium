@@ -1,0 +1,98 @@
+@import "tailwindcss";
+
+:root {
+  --background: #000000;
+  --foreground: #ffffff;
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: Arial, Helvetica, sans-serif;
+  overflow-x: hidden;
+}
+
+/* HERO */
+
+.hero-title {
+  display: flex;
+  flex-direction: column;
+  font-weight: 900;
+  line-height: 0.95;
+  font-size: clamp(42px, 6vw, 90px);
+  text-transform: uppercase;
+}
+
+.hero-title span {
+  display: block;
+  opacity: 0;
+  transform: translateY(80px);
+  animation: showText 0.8s forwards;
+}
+
+.hero-title .second {
+  animation-delay: 0.35s;
+}
+
+.hero-title .third {
+  animation-delay: 0.7s;
+}
+
+@keyframes showText {
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+.wave{
+  position:absolute;
+  left:-20%;
+  bottom:-80px;
+  width:140%;
+  height:340px;
+  border-radius:45%;
+  background:linear-gradient(
+      180deg,
+      rgba(42,132,255,.35),
+      rgba(4,18,45,.95)
+  );
+  filter:blur(35px);
+}
+
+.wave1{
+  animation:waveMove 12s linear infinite;
+}
+
+.wave2{
+  opacity:.45;
+  bottom:-110px;
+  animation:waveMoveReverse 18s linear infinite;
+}
+
+@keyframes waveMove{
+
+  from{
+    transform:translateX(0) rotate(0deg);
+  }
+
+  to{
+    transform:translateX(-120px) rotate(360deg);
+  }
+
+}
+
+@keyframes waveMoveReverse{
+
+  from{
+    transform:translateX(0) rotate(360deg);
+  }
+
+  to{
+    transform:translateX(120px) rotate(0deg);
+  }
+
+}

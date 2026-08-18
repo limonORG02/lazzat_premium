@@ -1,0 +1,159 @@
+{
+  "navbar": {
+    "home": "Bosh sahifa",
+    "products": "Mahsulotlar",
+    "about": "Biz haqimizda",
+    "contact": "Aloqa"
+  },
+  "hero": {
+    "label": "LAZZAT PREMIUM",
+    "title1": "SALQINLIKNING",
+    "title2": "YANGICHA",
+    "title3": "TA'MI",
+    "description": "Har bir qultumda haqiqiy salqinlik va premium ta'mni his eting.",
+    "productsButton": "Mahsulotlarni ko'rish",
+    "videoButton": "▶ Videoni ko'rish",
+    "scroll": "Pastga aylantiring"
+  },
+  "products": {
+    "title": "MAHSULOTLAR",
+    "composition": "Tarkibi",
+    "about": "Mahsulot haqida",
+    "premium": "Premium",
+    "quality": "Sifat",
+    "taste": "Ta'm",
+    "sparkling": "Gazlangan",
+    "volume": "Hajmi",
+    "items": [
+      {
+        "key": "melon",
+        "name": "MELON",
+        "title": "Melon Lemonade",
+        "description": "Tabiiy qovun ta'miga ega premium gazlangan ichimlik.",
+        "volume": "450 ml",
+        "composition": [
+          "Ichimlik suvi",
+          "Shakar",
+          "Limon kislotasi",
+          "Qovun aromati",
+          "CO₂"
+        ]
+      },
+      {
+        "key": "moxito",
+        "name": "MOXITO",
+        "title": "Moxito Lemonade",
+        "description": "Yalpiz va limon ta'midagi tetiklashtiruvchi premium ichimlik.",
+        "volume": "500 ml",
+        "composition": [
+          "Ichimlik suvi",
+          "Shakar",
+          "Limon kislotasi",
+          "Yalpiz aromati",
+          "CO₂"
+        ]
+      },
+      {
+        "key": "anor",
+        "name": "ANOR",
+        "title": "Anor Lemonade",
+        "description": "Tabiiy anor ta'miga ega premium gazlangan ichimlik.",
+        "volume": "500 ml",
+        "composition": [
+          "Ichimlik suvi",
+          "Shakar",
+          "Anor aromati",
+          "Limon kislotasi",
+          "CO₂"
+        ]
+      },
+      {
+        "key": "joxori",
+        "name": "JO'XORI",
+        "title": "Jo'xori Lemonade",
+        "description": "O'ziga xos jo'xori ta'miga ega premium ichimlik.",
+        "volume": "450 ml",
+        "composition": [
+          "Ichimlik suvi",
+          "Shakar",
+          "Jo'xori ekstrakti",
+          "CO₂"
+        ]
+      },
+      {
+        "key": "water",
+        "name": "SUV",
+        "title": "Toshkent Suv",
+        "description": "Toza va tabiiy ichimlik suvi.",
+        "volume": "500 ml",
+        "composition": [
+          "Tabiiy ichimlik suvi",
+          "Minerallar"
+        ]
+      }
+    ],
+    "features": {
+      "title": "NIMA UCHUN LAZZAT?",
+      "description": "Premium ichimliklar tabiiy ingredientlar, zamonaviy ishlab chiqarish va yuqori sifat nazorati asosida tayyorlanadi.",
+      "cards": [
+        {
+          "title": "Tabiiy tarkib",
+          "text": "Sifatli xomashyo va tabiiy ingredientlar asosida tayyorlanadi."
+        },
+        {
+          "title": "Zamonaviy ishlab chiqarish",
+          "text": "Mahsulotlar zamonaviy uskunalar yordamida ishlab chiqariladi."
+        },
+        {
+          "title": "Sifat nazorati",
+          "text": "Har bir mahsulot qat'iy sifat nazorati ostida ishlab chiqariladi."
+        }
+      ],
+      "bottom": [
+        {
+          "title": "Tabiiy tarkib",
+          "text": "Premium ichimliklar sifatli xomashyo va tabiiy ingredientlar asosida tayyorlanadi."
+        },
+        {
+          "title": "Zamonaviy uskunalar",
+          "text": "Ishlab chiqarish jarayonida zamonaviy texnologiyalar va uskunalardan foydalaniladi."
+        },
+        {
+          "title": "Sifat nazorati",
+          "text": "Har bir mahsulot qat'iy sifat nazoratidan o'tkaziladi."
+        },
+        {
+          "title": "Premium ta'm",
+          "text": "Har bir qultumda salqinlik va o'ziga xos premium ta'mni his eting."
+        }
+      ]
+    },
+    "fresh": "Yangi"
+  },
+  "about": {
+    "title": "Biz haqimizda",
+    "description": "Lazzat Premium — sifatli va zamonaviy texnologiyalar asosida ishlab chiqariladigan premium ichimliklar brendi.",
+    "addressTitle": "Manzil",
+    "address": "Toshkent sh.,\nYuqoriqoraqamish ko'chasi, 4-uy",
+    "factoryTitle": "Ishlab chiqaruvchi",
+    "factory": "MCHJ \"RAUPXON\"",
+    "phoneTitle": "Telefon",
+    "emailTitle": "E-mail"
+  },
+  "contact": {
+    "title": "Taklif va fikrlaringiz biz uchun muhim",
+    "subtitle": "Bizning mahsulotlarimiz yoki xizmatlarimiz haqidagi fikr va takliflaringizni yozib qoldiring.",
+    "name": "Ismingiz",
+    "phone": "Telefon raqamingiz",
+    "email": "Email (ixtiyoriy)",
+    "message": "Xabaringiz",
+    "button": "Yuborish →",
+    "label": "Aloqa"
+  },
+  "footer": {
+    "telegram": "Telegram",
+    "instagram": "Instagram",
+    "rights": "© 2026 LAZZAT. Barcha huquqlar himoyalangan.",
+    "whatsapp": "WhatsApp"
+  }
+}

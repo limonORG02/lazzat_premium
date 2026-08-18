@@ -1,0 +1,479 @@
+{
+  "uz": {
+    "navbar": {
+      "home": "Bosh sahifa",
+      "products": "Mahsulotlar",
+      "about": "Biz haqimizda",
+      "contact": "Aloqa"
+    },
+    "hero": {
+      "label": "LAZZAT PREMIUM",
+      "title1": "SALQINLIKNING",
+      "title2": "YANGICHA",
+      "title3": "TA'MI",
+      "description": "Har bir qultumda haqiqiy salqinlik va premium ta'mni his eting.",
+      "productsButton": "Mahsulotlarni ko'rish",
+      "videoButton": "▶ Videoni ko'rish",
+      "scroll": "Pastga aylantiring"
+    },
+    "products": {
+      "title": "MAHSULOTLAR",
+      "composition": "Tarkibi",
+      "about": "Mahsulot haqida",
+      "premium": "Premium",
+      "quality": "Sifat",
+      "taste": "Ta'm",
+      "sparkling": "Gazlangan",
+      "volume": "Hajmi",
+      "items": [
+        {
+          "key": "melon",
+          "name": "MELON",
+          "title": "Melon Lemonade",
+          "description": "Tabiiy qovun ta'miga ega premium gazlangan ichimlik.",
+          "volume": "450 ml",
+          "composition": [
+            "Ichimlik suvi",
+            "Shakar",
+            "Limon kislotasi",
+            "Qovun aromati",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "moxito",
+          "name": "MOXITO",
+          "title": "Moxito Lemonade",
+          "description": "Yalpiz va limon ta'midagi tetiklashtiruvchi premium ichimlik.",
+          "volume": "500 ml",
+          "composition": [
+            "Ichimlik suvi",
+            "Shakar",
+            "Limon kislotasi",
+            "Yalpiz aromati",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "anor",
+          "name": "ANOR",
+          "title": "Anor Lemonade",
+          "description": "Tabiiy anor ta'miga ega premium gazlangan ichimlik.",
+          "volume": "500 ml",
+          "composition": [
+            "Ichimlik suvi",
+            "Shakar",
+            "Anor aromati",
+            "Limon kislotasi",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "joxori",
+          "name": "JO'XORI",
+          "title": "Jo'xori Lemonade",
+          "description": "O'ziga xos jo'xori ta'miga ega premium ichimlik.",
+          "volume": "450 ml",
+          "composition": [
+            "Ichimlik suvi",
+            "Shakar",
+            "Jo'xori ekstrakti",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "water",
+          "name": "SUV",
+          "title": "Toshkent Suv",
+          "description": "Toza va tabiiy ichimlik suvi.",
+          "volume": "500 ml",
+          "composition": [
+            "Tabiiy ichimlik suvi",
+            "Minerallar"
+          ]
+        }
+      ],
+      "features": {
+        "title": "NIMA UCHUN LAZZAT?",
+        "description": "Premium ichimliklar tabiiy ingredientlar, zamonaviy ishlab chiqarish va yuqori sifat nazorati asosida tayyorlanadi.",
+        "cards": [
+          {
+            "title": "Tabiiy tarkib",
+            "text": "Sifatli xomashyo va tabiiy ingredientlar asosida tayyorlanadi."
+          },
+          {
+            "title": "Zamonaviy ishlab chiqarish",
+            "text": "Mahsulotlar zamonaviy uskunalar yordamida ishlab chiqariladi."
+          },
+          {
+            "title": "Sifat nazorati",
+            "text": "Har bir mahsulot qat'iy sifat nazorati ostida ishlab chiqariladi."
+          }
+        ],
+        "bottom": [
+          {
+            "title": "Tabiiy tarkib",
+            "text": "Premium ichimliklar sifatli xomashyo va tabiiy ingredientlar asosida tayyorlanadi."
+          },
+          {
+            "title": "Zamonaviy uskunalar",
+            "text": "Ishlab chiqarish jarayonida zamonaviy texnologiyalar va uskunalardan foydalaniladi."
+          },
+          {
+            "title": "Sifat nazorati",
+            "text": "Har bir mahsulot qat'iy sifat nazoratidan o'tkaziladi."
+          },
+          {
+            "title": "Premium ta'm",
+            "text": "Har bir qultumda salqinlik va o'ziga xos premium ta'mni his eting."
+          }
+        ]
+      },
+      "fresh": "Yangi"
+    },
+    "about": {
+      "title": "Biz haqimizda",
+      "description": "Lazzat Premium — sifatli va zamonaviy texnologiyalar asosida ishlab chiqariladigan premium ichimliklar brendi.",
+      "addressTitle": "Manzil",
+      "address": "Toshkent sh.,\nYuqoriqoraqamish ko'chasi, 4-uy",
+      "factoryTitle": "Ishlab chiqaruvchi",
+      "factory": "MCHJ \"RAUPXON\"",
+      "phoneTitle": "Telefon",
+      "emailTitle": "E-mail"
+    },
+    "contact": {
+      "title": "Taklif va fikrlaringiz biz uchun muhim",
+      "subtitle": "Bizning mahsulotlarimiz yoki xizmatlarimiz haqidagi fikr va takliflaringizni yozib qoldiring.",
+      "name": "Ismingiz",
+      "phone": "Telefon raqamingiz",
+      "email": "Email (ixtiyoriy)",
+      "message": "Xabaringiz",
+      "button": "Yuborish →",
+      "label": "Aloqa"
+    },
+    "footer": {
+      "telegram": "Telegram",
+      "instagram": "Instagram",
+      "rights": "© 2026 LAZZAT. Barcha huquqlar himoyalangan.",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "ru": {
+    "navbar": {
+      "home": "Главная",
+      "products": "Продукты",
+      "about": "О нас",
+      "contact": "Контакты"
+    },
+    "hero": {
+      "label": "LAZZAT PREMIUM",
+      "title1": "НОВЫЙ",
+      "title2": "ВКУС",
+      "title3": "СВЕЖЕСТИ",
+      "description": "Почувствуйте настоящую свежесть и премиальный вкус в каждом глотке.",
+      "productsButton": "Смотреть продукты",
+      "videoButton": "▶ Смотреть видео",
+      "scroll": "Прокрутите вниз"
+    },
+    "products": {
+      "title": "ПРОДУКТЫ",
+      "composition": "Состав",
+      "about": "О продукте",
+      "premium": "Премиум",
+      "quality": "Качество",
+      "taste": "Вкус",
+      "sparkling": "Газированный",
+      "volume": "Объём",
+      "items": [
+        {
+          "key": "melon",
+          "name": "ДЫНЯ",
+          "title": "Melon Lemonade",
+          "description": "Премиальный газированный напиток с натуральным вкусом дыни.",
+          "volume": "450 мл",
+          "composition": [
+            "Питьевая вода",
+            "Сахар",
+            "Лимонная кислота",
+            "Ароматизатор дыни",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "moxito",
+          "name": "МОХИТО",
+          "title": "Mojito Lemonade",
+          "description": "Освежающий премиальный напиток со вкусом мяты и лимона.",
+          "volume": "500 мл",
+          "composition": [
+            "Питьевая вода",
+            "Сахар",
+            "Лимонная кислота",
+            "Ароматизатор мяты",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "anor",
+          "name": "ГРАНАТ",
+          "title": "Pomegranate Lemonade",
+          "description": "Премиальный газированный напиток с натуральным вкусом граната.",
+          "volume": "500 мл",
+          "composition": [
+            "Питьевая вода",
+            "Сахар",
+            "Ароматизатор граната",
+            "Лимонная кислота",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "joxori",
+          "name": "КУКУРУЗА",
+          "title": "Corn Lemonade",
+          "description": "Премиальный напиток с характерным вкусом кукурузы.",
+          "volume": "450 мл",
+          "composition": [
+            "Питьевая вода",
+            "Сахар",
+            "Экстракт кукурузы",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "water",
+          "name": "ВОДА",
+          "title": "Tashkent Water",
+          "description": "Чистая и натуральная питьевая вода.",
+          "volume": "500 мл",
+          "composition": [
+            "Натуральная питьевая вода",
+            "Минералы"
+          ]
+        }
+      ],
+      "features": {
+        "title": "ПОЧЕМУ LAZZAT?",
+        "description": "Премиальные напитки производятся из натуральных ингредиентов с использованием современных технологий и строгого контроля качества.",
+        "cards": [
+          {
+            "title": "Натуральный состав",
+            "text": "Производится из качественного сырья и натуральных ингредиентов."
+          },
+          {
+            "title": "Современное производство",
+            "text": "Наши продукты производятся с использованием современного оборудования."
+          },
+          {
+            "title": "Контроль качества",
+            "text": "Каждый продукт производится под строгим контролем качества."
+          }
+        ],
+        "bottom": [
+          {
+            "title": "Натуральный состав",
+            "text": "Премиальные напитки производятся из качественного сырья и натуральных ингредиентов."
+          },
+          {
+            "title": "Современное оборудование",
+            "text": "В процессе производства используются современные технологии и оборудование."
+          },
+          {
+            "title": "Контроль качества",
+            "text": "Каждый продукт проходит строгий контроль качества."
+          },
+          {
+            "title": "Премиальный вкус",
+            "text": "Почувствуйте свежесть и неповторимый премиальный вкус в каждом глотке."
+          }
+        ]
+      },
+      "fresh": "Новинка"
+    },
+    "about": {
+      "title": "О НАС",
+      "description": "Lazzat Premium — бренд премиальных напитков, производимых с использованием современных технологий и высоких стандартов качества.",
+      "addressTitle": "Адрес",
+      "address": "г. Ташкент,\nул. Юкорикарамыш, дом 4",
+      "factoryTitle": "Производитель",
+      "factory": "MCHJ \"RAUPXON\"",
+      "phoneTitle": "Телефон",
+      "emailTitle": "E-mail"
+    },
+    "contact": {
+      "title": "ВАШЕ МНЕНИЕ ВАЖНО ДЛЯ НАС",
+      "subtitle": "Оставьте свои отзывы и предложения о наших продуктах или услугах.",
+      "name": "Ваше имя",
+      "phone": "Номер телефона",
+      "email": "Email (необязательно)",
+      "message": "Ваше сообщение",
+      "button": "Отправить →",
+      "label": "Контакты"
+    },
+    "footer": {
+      "telegram": "Telegram",
+      "instagram": "Instagram",
+      "rights": "© 2026 LAZZAT. Все права защищены.",
+      "whatsapp": "WhatsApp"
+    }
+  },
+  "en": {
+    "navbar": {
+      "home": "Home",
+      "products": "Products",
+      "about": "About Us",
+      "contact": "Contact"
+    },
+    "hero": {
+      "label": "LAZZAT PREMIUM",
+      "title1": "A NEW",
+      "title2": "TASTE OF",
+      "title3": "REFRESHMENT",
+      "description": "Experience true refreshment and premium taste in every sip.",
+      "productsButton": "View Products",
+      "videoButton": "▶ Watch Video",
+      "scroll": "Scroll Down"
+    },
+    "products": {
+      "title": "PRODUCTS",
+      "composition": "Ingredients",
+      "about": "About the Product",
+      "premium": "Premium",
+      "quality": "Quality",
+      "taste": "Taste",
+      "sparkling": "Sparkling",
+      "volume": "Volume",
+      "items": [
+        {
+          "key": "melon",
+          "name": "MELON",
+          "title": "Melon Lemonade",
+          "description": "A premium sparkling beverage with a natural melon flavor.",
+          "volume": "450 ml",
+          "composition": [
+            "Drinking Water",
+            "Sugar",
+            "Citric Acid",
+            "Melon Flavor",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "moxito",
+          "name": "MOJITO",
+          "title": "Mojito Lemonade",
+          "description": "A refreshing premium beverage with mint and lemon flavors.",
+          "volume": "500 ml",
+          "composition": [
+            "Drinking Water",
+            "Sugar",
+            "Citric Acid",
+            "Mint Flavor",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "anor",
+          "name": "POMEGRANATE",
+          "title": "Pomegranate Lemonade",
+          "description": "A premium sparkling beverage with a natural pomegranate flavor.",
+          "volume": "500 ml",
+          "composition": [
+            "Drinking Water",
+            "Sugar",
+            "Pomegranate Flavor",
+            "Citric Acid",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "joxori",
+          "name": "CORN",
+          "title": "Corn Lemonade",
+          "description": "A premium beverage with a distinctive corn flavor.",
+          "volume": "450 ml",
+          "composition": [
+            "Drinking Water",
+            "Sugar",
+            "Corn Extract",
+            "CO₂"
+          ]
+        },
+        {
+          "key": "water",
+          "name": "WATER",
+          "title": "Tashkent Water",
+          "description": "Pure and natural drinking water.",
+          "volume": "500 ml",
+          "composition": [
+            "Natural Drinking Water",
+            "Minerals"
+          ]
+        }
+      ],
+      "features": {
+        "title": "WHY LAZZAT?",
+        "description": "Premium beverages are made with natural ingredients, modern production methods, and strict quality control.",
+        "cards": [
+          {
+            "title": "Natural Ingredients",
+            "text": "Made with high-quality raw materials and natural ingredients."
+          },
+          {
+            "title": "Modern Production",
+            "text": "Our products are manufactured using modern equipment."
+          },
+          {
+            "title": "Quality Control",
+            "text": "Every product is manufactured under strict quality control."
+          }
+        ],
+        "bottom": [
+          {
+            "title": "Natural Ingredients",
+            "text": "Premium beverages are made with high-quality raw materials and natural ingredients."
+          },
+          {
+            "title": "Modern Equipment",
+            "text": "Modern technologies and equipment are used throughout the production process."
+          },
+          {
+            "title": "Quality Control",
+            "text": "Every product undergoes strict quality control."
+          },
+          {
+            "title": "Premium Taste",
+            "text": "Experience refreshment and a distinctive premium taste in every sip."
+          }
+        ]
+      },
+      "fresh": "New"
+    },
+    "about": {
+      "title": "ABOUT US",
+      "description": "Lazzat Premium is a premium beverage brand produced using modern technologies and high quality standards.",
+      "addressTitle": "Address",
+      "address": "Tashkent,\nYuqoriqoraqamish Street, 4",
+      "factoryTitle": "Manufacturer",
+      "factory": "MCHJ \"RAUPXON\"",
+      "phoneTitle": "Phone",
+      "emailTitle": "E-mail"
+    },
+    "contact": {
+      "title": "YOUR FEEDBACK MATTERS TO US",
+      "subtitle": "Share your feedback and suggestions about our products or services.",
+      "name": "Your Name",
+      "phone": "Your Phone Number",
+      "email": "Email (optional)",
+      "message": "Your Message",
+      "button": "Send →",
+      "label": "Contact"
+    },
+    "footer": {
+      "telegram": "Telegram",
+      "instagram": "Instagram",
+      "rights": "© 2026 LAZZAT. All rights reserved.",
+      "whatsapp": "WhatsApp"
+    }
+  }
+}
